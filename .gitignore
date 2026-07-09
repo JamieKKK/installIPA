@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+.env.oss
+.certs/
+
+*.ipa
+!ipas/.gitkeep
+
+install.html
+manifest.plist
+app-icon.png
+app-icon-full.png
